@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "occupation": "Software Engineer",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "skills": ["Go", "Elasticsearch", "Docker"]
+}
